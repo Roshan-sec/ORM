@@ -48,8 +48,10 @@ admin.site.register(amazon_DB,amazon_DBAdmin)
 
 
 ## OUTPUT
+<img width="1016" height="817" alt="Screenshot 2025-11-27 211010" src="https://github.com/user-attachments/assets/4793a44b-047f-410f-9b69-54a27d770990" />
 
-Include the screenshot of your admin page.
+<img width="1409" height="712" alt="Screenshot 2025-11-27 210806" src="https://github.com/user-attachments/assets/48118451-dc81-4451-a5c1-0e437100327d" />
+
 
 
 ## RESULT
